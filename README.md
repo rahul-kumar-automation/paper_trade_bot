@@ -1,6 +1,6 @@
-# Trading Backtester Engine
+# Paper Trading Engine
 
-A modular Python framework for backtesting trading strategies.  
+A modular Python framework for paper trading strategies.  
 This project allows you to test, analyze, and refine trading ideas using historical data before risking real capital.
 
 ---
@@ -10,6 +10,6 @@ This project allows you to test, analyze, and refine trading ideas using histori
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/trading_backtester.git
-cd trading_backtester
+git clone https://github.com/rahul-kumar-automation/paper_trade_bot.git
+cd paper_trade_bot
 pip install -r requirements.txt
